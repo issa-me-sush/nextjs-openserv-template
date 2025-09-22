@@ -1,0 +1,6 @@
+# Exclude standalone agent from Vercel deployments
+agent-server/
+
+# Exclude local env files
+.env*
+env.example
