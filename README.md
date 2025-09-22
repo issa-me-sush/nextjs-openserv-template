@@ -1,3 +1,7 @@
+# Overall architecture
+<img width="660" height="521" alt="image" src="https://github.com/user-attachments/assets/062f2107-373a-4366-9634-10cb3db5fd96" />
+
+
 # Next Agent (Webhook + Result Delivery)
 
 A minimal Next.js app that:
