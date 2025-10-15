@@ -1,0 +1,25 @@
+{
+  "name": "your-agent",
+  "version": "1.0.0",
+  "description": "Standalone OpenServ SDK agent with receive capability",
+  "type": "module",
+  "main": "agent-receive-server.ts",
+  "scripts": {
+    "start": "tsx agent-receive-server.ts",
+    "dev": "tsx watch agent-receive-server.ts"
+  },
+  "keywords": ["openserv", "agent", "webhook"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openserv-labs/sdk": "latest",
+    "dotenv": "latest",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}
+
